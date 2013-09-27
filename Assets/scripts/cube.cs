@@ -11,6 +11,6 @@ public class cube : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		float tt = Time.deltaTime;
-		transform.Rotate(tt*10.0f,tt*15.0f,tt*33.0f);
+		transform.Rotate(tt*20.0f,tt*35.0f,tt*33.0f);
 	}
 }
