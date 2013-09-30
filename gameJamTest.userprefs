@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\cube.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\earth.cs">
     <Files>
-      <File FileName="Assets\scripts\cube.cs" Line="9" Column="3" />
+      <File FileName="Assets\scripts\cube.cs" Line="14" Column="26" />
+      <File FileName="Assets\scripts\earth.cs" Line="13" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

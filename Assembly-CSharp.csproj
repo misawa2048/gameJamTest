@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\cube.cs" />
+     <Compile Include="Assets\scripts\earth.cs" />
      <None Include="Assets\shaders\SpriteVtxCol.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
